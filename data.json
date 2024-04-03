@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "hotelName": "Iberostar Grand Salome",
+      "location": "Costa Adeje, Tenerife",
+      "stars": 5,
+      "adults": 2,
+      "children": 2,
+      "infants": 1,
+      "departureDate": "3rd July 2019",
+      "duration": "7 days",
+      "departureAirport": "East Midlands",
+      "price": "1,136.50",
+      "overview": "The Iberostar Grand Salome has an exceptional location in the south of Tenerife, overlooking the Atlantic Ocean. It is situated between the Golf del Sur and the Amarillo Golf courses, and is an ideal hotel for families, couples and groups who are looking for a holiday full of sport, sun and sea.",
+      "imageUrl": "/images/hotel-image-1.png"
+    },
+    {
+        "id": 2,
+        "hotelName": "Aguamarina Golf Hotel",
+        "location": "Costa Adeje, Tenerife",
+        "stars": 4,
+        "adults": 2,
+        "children": 1,
+        "infants": 1,
+        "departureDate": "27th May 2019",
+        "duration": "7 days",
+        "departureAirport": "Liverpool",
+        "price": "696.80",
+        "overview": "The Iberostar Grand Salome has an exceptional location in the south of Tenerife, overlooking the Atlantic Ocean. It is situated between the Golf del Sur and the Amarillo Golf courses, and is an ideal hotel for families, couples and groups who are looking for a holiday full of sport, sun and sea.",
+        "imageUrl": "/images/hotel-image-2.png"
+      },
+      {
+        "id": 3,
+        "hotelName": "Las Piramides Resort",
+        "location": "Costa Adeje, Tenerife",
+        "stars": 3,
+        "adults": 2,
+        "children": 2,
+        "infants": 0,
+        "departureDate": "3rd July 2019",
+        "duration": "7 days",
+        "departureAirport": "Manchester",
+        "price": "499.99",
+        "overview": "The Iberostar Grand Salome has an exceptional location in the south of Tenerife, overlooking the Atlantic Ocean. It is situated between the Golf del Sur and the Amarillo Golf courses, and is an ideal hotel for families, couples and groups who are looking for a holiday full of sport, sun and sea.",
+        "imageUrl": "/images/hotel-image-3.png"
+      }
+
+
+]

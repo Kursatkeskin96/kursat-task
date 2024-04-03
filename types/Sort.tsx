@@ -1,0 +1,1 @@
+export type SortingOption = 'alphabetically' | 'price' | 'star';
