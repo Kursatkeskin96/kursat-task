@@ -48,9 +48,6 @@ const MainContainer: React.FC = () => {
       isAscending = !(option === "price" || option === "star");
     }
 
-    console.log(
-      `Sorting ${option} in ${isAscending ? "ascending" : "descending"} order`
-    );
     let sortedArray = [...sortedHotels];
 
     const sortAlphabetically = (a: Hotel, b: Hotel) =>
